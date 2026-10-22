@@ -30,8 +30,8 @@ const projects = [
         title: "Campus Hub",
         description: "A concept design and front-end implementation for a campus hub. Focused on a clean UI, responsive layouts, and a better platform for students problems using modern CSS techniques.",
         imageUrl: "./images/project-placeholder-2.webp",
-        liveUrl: "https://sumaia-ijaz.netlify.app/",
-        codeUrl: "https://github.com/binteejaz/personal-portfolio-website/"
+        liveUrl: "https://myuniloop.netlify.app/",
+        codeUrl: "https://github.com/binteejaz/campus-hub/"
     },
     {
         title: "Task Management App",

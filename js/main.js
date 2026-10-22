@@ -23,14 +23,14 @@ const projects = [
         title: "Portfolio Project (This Website!)",
         description: "A responsive personal portfolio built from scratch using HTML, CSS, and vanilla JavaScript. Features a dynamic theme switcher and is populated by a JavaScript data structure.",
         imageUrl: "./images/project-placeholder-1.webp",
-        liveUrl: "https://6ad9eb70aacc6a198dc041c4--nimble-frangipane-80ee5a.netlify.app",
+        liveUrl: "https://sumaia-ijaz.netlify.app/",
         codeUrl: "https://github.com/binteejaz/personal-portfolio-website/"
     },
     {
         title: "Campus Hub",
         description: "A concept design and front-end implementation for a campus hub. Focused on a clean UI, responsive layouts, and a better platform for students problems using modern CSS techniques.",
         imageUrl: "./images/project-placeholder-2.webp",
-        liveUrl: "https://6ad9eb70aacc6a198dc041c4--nimble-frangipane-80ee5a.netlify.app",
+        liveUrl: "https://sumaia-ijaz.netlify.app/",
         codeUrl: "https://github.com/binteejaz/personal-portfolio-website/"
     },
     {

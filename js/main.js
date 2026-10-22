@@ -37,7 +37,7 @@ const projects = [
         title: "Task Management App",
         description: "A client-side task management application built with vanilla JavaScript. Allows users to add, edit, delete, and mark tasks as complete, with all data saved to localStorage.",
         imageUrl: "./images/project-placeholder-3.webp",
-         liveUrl: "https://sumaia-ijaz.netlify.app/",
+        liveUrl: "https://sumaia-ijaz.netlify.app/",
         codeUrl: "https://github.com/binteejaz/personal-portfolio-website/" // Replace with your repo link
     }
 ];
